@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ブログツール on 特殊移動兵見聞録</title>
+    <link>http://localhost:1313/tags/%E3%83%96%E3%83%AD%E3%82%B0%E3%83%84%E3%83%BC%E3%83%AB/</link>
+    <description>Recent content in ブログツール on 特殊移動兵見聞録</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>© 2024 だいごろう</copyright>
+    <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E3%83%96%E3%83%AD%E3%82%B0%E3%83%84%E3%83%BC%E3%83%AB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HEIC形式の画像をJPGに変換する方法</title>
+      <link>http://localhost:1313/posts/2024/2024-02-01-convert-heic-to-jpg/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/2024/2024-02-01-convert-heic-to-jpg/</guid>
+      <description>変換方法 iphoneで撮影した画像をブログに使うと</description>
+    </item>
+  </channel>
+</rss>
