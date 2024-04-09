@@ -2,60 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>特殊移動兵見聞録</title>
-    <link>http://localhost:1313/</link>
+    <link>https://www.world-travel.info/</link>
     <description>Recent content on 特殊移動兵見聞録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2024 だいごろう</copyright>
     <lastBuildDate>Sat, 02 Mar 2024 12:00:00 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.world-travel.info/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>久しぶりのマレーシアに入国</title>
-      <link>http://localhost:1313/posts/2024/2024-03-02-2-go-to-malaysia/</link>
+      <link>https://www.world-travel.info/posts/2024/2024-03-02-2-go-to-malaysia/</link>
       <pubDate>Sat, 02 Mar 2024 12:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/2024/2024-03-02-2-go-to-malaysia/</guid>
-      <description>たまたまワンワールドに乗れて安く来られたというだけ</description>
+      <guid>https://www.world-travel.info/posts/2024/2024-03-02-2-go-to-malaysia/</guid>
+      <description>ソウル発券を1つ閉じるためにマレーシアに向かうこと</description>
     </item>
     <item>
       <title>ワンワールドラウンジ見学！</title>
-      <link>http://localhost:1313/posts/2024/2024-03-02-1-check-incheon-oneworld-lounge/</link>
+      <link>https://www.world-travel.info/posts/2024/2024-03-02-1-check-incheon-oneworld-lounge/</link>
       <pubDate>Sat, 02 Mar 2024 00:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/2024/2024-03-02-1-check-incheon-oneworld-lounge/</guid>
+      <guid>https://www.world-travel.info/posts/2024/2024-03-02-1-check-incheon-oneworld-lounge/</guid>
       <description>なぜソウル市内に宿を取ってしまったのかと自分にむか</description>
     </item>
     <item>
       <title>ソウル入国してワンワールドラウンジを見に行こう</title>
-      <link>http://localhost:1313/posts/2024/2024-03-01-south-korea-entry/</link>
+      <link>https://www.world-travel.info/posts/2024/2024-03-01-south-korea-entry/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/2024/2024-03-01-south-korea-entry/</guid>
+      <guid>https://www.world-travel.info/posts/2024/2024-03-01-south-korea-entry/</guid>
       <description>ソウル発券した航空券を眺めてみると、どうやら4か月</description>
     </item>
     <item>
       <title>日本旅行終了の儀</title>
-      <link>http://localhost:1313/posts/2024/2024-02-29-trip-planning/</link>
+      <link>https://www.world-travel.info/posts/2024/2024-02-29-trip-planning/</link>
       <pubDate>Thu, 29 Feb 2024 00:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/2024/2024-02-29-trip-planning/</guid>
+      <guid>https://www.world-travel.info/posts/2024/2024-02-29-trip-planning/</guid>
       <description>昨年はソウル発券を多用してアジア各地に移動しており</description>
     </item>
     <item>
       <title>about</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://www.world-travel.info/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://www.world-travel.info/about/</guid>
       <description>い〜〜〜〜〜ろんなところに行きたい移動オタク/JG</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://www.world-travel.info/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://www.world-travel.info/contact/</guid>
       <description>Click me クリックすると連絡先が表示されます。 ご連絡先は</description>
     </item>
     <item>
       <title>プライバシーポリシー</title>
-      <link>http://localhost:1313/privacy/</link>
+      <link>https://www.world-travel.info/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/privacy/</guid>
+      <guid>https://www.world-travel.info/privacy/</guid>
       <description>基本方針 当サイトは、個人情報の重要性を認識し、個人</description>
     </item>
   </channel>

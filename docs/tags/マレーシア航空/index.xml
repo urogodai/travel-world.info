@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>マレーシア航空 on 特殊移動兵見聞録</title>
-    <link>http://localhost:1313/tags/%E3%83%9E%E3%83%AC%E3%83%BC%E3%82%B7%E3%82%A2%E8%88%AA%E7%A9%BA/</link>
+    <link>https://www.world-travel.info/tags/%E3%83%9E%E3%83%AC%E3%83%BC%E3%82%B7%E3%82%A2%E8%88%AA%E7%A9%BA/</link>
     <description>Recent content in マレーシア航空 on 特殊移動兵見聞録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2024 だいごろう</copyright>
     <lastBuildDate>Sat, 02 Mar 2024 12:00:00 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E3%83%9E%E3%83%AC%E3%83%BC%E3%82%B7%E3%82%A2%E8%88%AA%E7%A9%BA/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.world-travel.info/tags/%E3%83%9E%E3%83%AC%E3%83%BC%E3%82%B7%E3%82%A2%E8%88%AA%E7%A9%BA/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>久しぶりのマレーシアに入国</title>
-      <link>http://localhost:1313/posts/2024/2024-03-02-2-go-to-malaysia/</link>
+      <link>https://www.world-travel.info/posts/2024/2024-03-02-2-go-to-malaysia/</link>
       <pubDate>Sat, 02 Mar 2024 12:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/2024/2024-03-02-2-go-to-malaysia/</guid>
-      <description>たまたまワンワールドに乗れて安く来られたというだけ</description>
+      <guid>https://www.world-travel.info/posts/2024/2024-03-02-2-go-to-malaysia/</guid>
+      <description>ソウル発券を1つ閉じるためにマレーシアに向かうこと</description>
     </item>
     <item>
       <title>ワンワールドラウンジ見学！</title>
-      <link>http://localhost:1313/posts/2024/2024-03-02-1-check-incheon-oneworld-lounge/</link>
+      <link>https://www.world-travel.info/posts/2024/2024-03-02-1-check-incheon-oneworld-lounge/</link>
       <pubDate>Sat, 02 Mar 2024 00:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/2024/2024-03-02-1-check-incheon-oneworld-lounge/</guid>
+      <guid>https://www.world-travel.info/posts/2024/2024-03-02-1-check-incheon-oneworld-lounge/</guid>
       <description>なぜソウル市内に宿を取ってしまったのかと自分にむか</description>
     </item>
   </channel>
