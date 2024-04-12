@@ -1,486 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-    
-    
-  <url>
-    <loc>https://travel-world.info/tags/</loc>
-    <lastmod>2024-03-04</lastmod>
-      
-    <changefreq>weekly</changefreq>
-      
-
-      
-    <priority>0.5</priority>
-      
-  </url>
-  
-
-    
-    
-  <url>
-    <loc>https://travel-world.info/tags/kul/</loc>
-    <lastmod>2024-03-04</lastmod>
-      
-    <changefreq>weekly</changefreq>
-      
-
-      
-    <priority>0.5</priority>
-      
-  </url>
-  
-
-    
-    
-  <url>
-    <loc>https://travel-world.info/posts/</loc>
-    <lastmod>2024-03-04</lastmod>
-      
-    <changefreq>weekly</changefreq>
-      
-
-      
-    <priority>0.5</priority>
-      
-  </url>
-  
-
-    
-    
-  <url>
-    <loc>https://travel-world.info/tags/sin/</loc>
-    <lastmod>2024-03-04</lastmod>
-      
-    <changefreq>weekly</changefreq>
-      
-
-      
-    <priority>0.5</priority>
-      
-  </url>
-  
-
-    
-    
-  <url>
-    <loc>https://travel-world.info/tags/trip202303-sel-kul-sin/</loc>
-    <lastmod>2024-03-04</lastmod>
-      
-    <changefreq>weekly</changefreq>
-      
-
-      
-    <priority>0.5</priority>
-      
-  </url>
-  
-
-    
-    
-  <url>
-    <loc>https://travel-world.info/tags/%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB/</loc>
-    <lastmod>2024-03-04</lastmod>
-      
-    <changefreq>weekly</changefreq>
-      
-
-      
-    <priority>0.5</priority>
-      
-  </url>
-  
-
-    
-    
-  <url>
-    <loc>https://travel-world.info/posts/2024/2024-03-03-move-on-singapore/</loc>
-    <lastmod>2024-03-04</lastmod>
-      
-    <changefreq>weekly</changefreq>
-      
-
-      
-    <priority>0.5</priority>
-      
-  </url>
-  
-
-    
-    
-  <url>
-    <loc>https://travel-world.info/posts/2024/2024-03-03-singapore/</loc>
-    <lastmod>2024-03-04</lastmod>
-      
-    <changefreq>weekly</changefreq>
-      
-
-      
-    <priority>0.5</priority>
-      
-  </url>
-  
-
-    
-    
-  <url>
-    <loc>https://travel-world.info/tags/%E3%82%BD%E3%82%A6%E3%83%AB%E7%99%BA%E5%88%B8/</loc>
-    <lastmod>2024-03-04</lastmod>
-      
-    <changefreq>weekly</changefreq>
-      
-
-      
-    <priority>0.5</priority>
-      
-  </url>
-  
-
-    
-    
-  <url>
-    <loc>https://travel-world.info/tags/%E3%83%9E%E3%83%AC%E3%83%BC%E3%82%B7%E3%82%A2/</loc>
-    <lastmod>2024-03-04</lastmod>
-      
-    <changefreq>weekly</changefreq>
-      
-
-      
-    <priority>0.5</priority>
-      
-  </url>
-  
-
-    
-    
-  <url>
-    <loc>https://travel-world.info/tags/%E3%83%9E%E3%83%AC%E3%83%BC%E3%82%B7%E3%82%A2%E8%88%AA%E7%A9%BA/</loc>
-    <lastmod>2024-03-04</lastmod>
-      
-    <changefreq>weekly</changefreq>
-      
-
-      
-    <priority>0.5</priority>
-      
-  </url>
-  
-
-    
-    
-  <url>
-    <loc>https://travel-world.info/tags/%E5%B0%8F%E7%B1%A0%E5%8C%85/</loc>
-    <lastmod>2024-03-04</lastmod>
-      
-    <changefreq>weekly</changefreq>
-      
-
-      
-    <priority>0.5</priority>
-      
-  </url>
-  
-
-    
-    
-  <url>
-    <loc>https://travel-world.info/tags/%E6%97%A5%E6%9C%AC%E8%88%AA%E7%A9%BA/</loc>
-    <lastmod>2024-03-04</lastmod>
-      
-    <changefreq>weekly</changefreq>
-      
-
-      
-    <priority>0.5</priority>
-      
-  </url>
-  
-
-    
-    
-  <url>
-    <loc>https://travel-world.info/tags/icn/</loc>
-    <lastmod>2024-03-02</lastmod>
-      
-    <changefreq>weekly</changefreq>
-      
-
-      
-    <priority>0.5</priority>
-      
-  </url>
-  
-
-    
-    
-  <url>
-    <loc>https://travel-world.info/tags/%E3%82%BD%E3%82%A6%E3%83%AB/</loc>
-    <lastmod>2024-03-02</lastmod>
-      
-    <changefreq>weekly</changefreq>
-      
-
-      
-    <priority>0.5</priority>
-      
-  </url>
-  
-
-    
-    
-  <url>
-    <loc>https://travel-world.info/tags/%E3%83%A9%E3%82%A6%E3%83%B3%E3%82%B8/</loc>
-    <lastmod>2024-03-02</lastmod>
-      
-    <changefreq>weekly</changefreq>
-      
-
-      
-    <priority>0.5</priority>
-      
-  </url>
-  
-
-    
-    
-  <url>
-    <loc>https://travel-world.info/posts/2024/2024-03-02-2-go-to-malaysia/</loc>
-    <lastmod>2024-03-02</lastmod>
-      
-    <changefreq>weekly</changefreq>
-      
-
-      
-    <priority>0.5</priority>
-      
-  </url>
-  
-
-    
-    
-  <url>
-    <loc>https://travel-world.info/posts/2024/2024-03-02-1-check-incheon-oneworld-lounge/</loc>
-    <lastmod>2024-03-02</lastmod>
-      
-    <changefreq>weekly</changefreq>
-      
-
-      
-    <priority>0.5</priority>
-      
-  </url>
-  
-
-    
-    
-  <url>
-    <loc>https://travel-world.info/tags/gmp/</loc>
-    <lastmod>2024-03-01</lastmod>
-      
-    <changefreq>weekly</changefreq>
-      
-
-      
-    <priority>0.5</priority>
-      
-  </url>
-  
-
-    
-    
-  <url>
-    <loc>https://travel-world.info/tags/hnd/</loc>
-    <lastmod>2024-03-01</lastmod>
-      
-    <changefreq>weekly</changefreq>
-      
-
-      
-    <priority>0.5</priority>
-      
-  </url>
-  
-
-    
-    
-  <url>
-    <loc>https://travel-world.info/posts/2024/2024-03-01-south-korea-entry/</loc>
-    <lastmod>2024-03-01</lastmod>
-      
-    <changefreq>weekly</changefreq>
-      
-
-      
-    <priority>0.5</priority>
-      
-  </url>
-  
-
-    
-    
-  <url>
-    <loc>https://travel-world.info/posts/2024/2024-02-29-trip-planning/</loc>
-    <lastmod>2024-02-29</lastmod>
-      
-    <changefreq>weekly</changefreq>
-      
-
-      
-    <priority>0.5</priority>
-      
-  </url>
-  
-
-    
-    
-  <url>
-    <loc>https://travel-world.info/posts/2024/2024-02-02-remove-exif/</loc>
-    <lastmod>2024-02-02</lastmod>
-      
-    <changefreq>weekly</changefreq>
-      
-
-      
-    <priority>0.5</priority>
-      
-  </url>
-  
-
-    
-    
-  <url>
-    <loc>https://travel-world.info/tags/%E3%83%96%E3%83%AD%E3%82%B0%E3%83%84%E3%83%BC%E3%83%AB/</loc>
-    <lastmod>2024-02-02</lastmod>
-      
-    <changefreq>weekly</changefreq>
-      
-
-      
-    <priority>0.5</priority>
-      
-  </url>
-  
-
-    
-    
-  <url>
-    <loc>https://travel-world.info/posts/2024/2024-02-01-convert-heic-to-jpg/</loc>
-    <lastmod>2024-02-01</lastmod>
-      
-    <changefreq>weekly</changefreq>
-      
-
-      
-    <priority>0.5</priority>
-      
-  </url>
-  
-
-    
-    
-  <url>
-    <loc>https://travel-world.info/</loc>
-    <lastmod>2020-03-25</lastmod>
-      
-    <changefreq>weekly</changefreq>
-      
-
-      
-    <priority>0.5</priority>
-      
-  </url>
-  
-
-    
-    
-  <url>
-    <loc>https://travel-world.info/search/</loc>
-    <lastmod>0001-01-01</lastmod>
-      
-    <changefreq>weekly</changefreq>
-      
-
-      
-    <priority>0.5</priority>
-      
-  </url>
-  
-
-    
-    
-  <url>
-    <loc>https://travel-world.info/sections/</loc>
-    <lastmod>0001-01-01</lastmod>
-      
-    <changefreq>weekly</changefreq>
-      
-
-      
-    <priority>0.5</priority>
-      
-  </url>
-  
-
-    
-    
-  <url>
-    <loc>https://travel-world.info/about/</loc>
-    <lastmod>0001-01-01</lastmod>
-      
-    <changefreq>weekly</changefreq>
-      
-
-      
-    <priority>0.5</priority>
-      
-  </url>
-  
-
-    
-
-    
-    
-  <url>
-    <loc>https://travel-world.info/categories/</loc>
-    <lastmod>0001-01-01</lastmod>
-      
-    <changefreq>weekly</changefreq>
-      
-
-      
-    <priority>0.5</priority>
-      
-  </url>
-  
-
-    
-    
-  <url>
-    <loc>https://travel-world.info/contact/</loc>
-    <lastmod>0001-01-01</lastmod>
-      
-    <changefreq>weekly</changefreq>
-      
-
-      
-    <priority>0.5</priority>
-      
-  </url>
-  
-
-    
-    
-  <url>
-    <loc>https://travel-world.info/privacy/</loc>
-    <lastmod>0001-01-01</lastmod>
-      
-    <changefreq>weekly</changefreq>
-      
-
-      
-    <priority>0.5</priority>
-      
-  </url>
-  
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<!--  created with free sitemap generation system www.sitemapxml.jp  --> 
+<url>
+  <loc>https://travel-world.info/</loc>
+  <priority>1.0</priority>
+  <lastmod>2024-04-12T13:36:47+09:00</lastmod>
+</url>
+<url>
+  <loc>https://travel-world.info/posts/</loc>
+  <priority>0.8</priority>
+  <lastmod>2024-04-12T13:36:47+09:00</lastmod>
+</url>
+<url>
+  <loc>https://travel-world.info/tags/</loc>
+  <priority>0.8</priority>
+  <lastmod>2024-04-12T13:36:47+09:00</lastmod>
+</url>
+<url>
+  <loc>https://travel-world.info/about/</loc>
+  <priority>0.8</priority>
+  <lastmod>2024-04-12T13:36:47+09:00</lastmod>
+</url>
+<url>
+  <loc>https://travel-world.info/contact/</loc>
+  <priority>0.8</priority>
+  <lastmod>2024-04-12T13:36:47+09:00</lastmod>
+</url>
+<url>
+  <loc>https://travel-world.info/privacy/</loc>
+  <priority>0.8</priority>
+  <lastmod>2024-04-12T13:36:47+09:00</lastmod>
+</url>
+<url>
+  <loc>https://travel-world.info/tags/%E3%82%BD%E3%82%A6%E3%83%AB%E7%99%BA%E5%88%B8</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://travel-world.info/tags/kul</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://travel-world.info/tags/sin</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://travel-world.info/tags/%E6%97%A5%E6%9C%AC%E8%88%AA%E7%A9%BA</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://travel-world.info/tags/%E5%B0%8F%E7%B1%A0%E5%8C%85</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://travel-world.info/tags/trip202303-sel-kul-sin</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://travel-world.info/posts/2024/2024-03-03-singapore/</loc>
+  <priority>0.8</priority>
+  <lastmod>2024-04-12T13:36:47+09:00</lastmod>
+</url>
+<url>
+  <loc>https://travel-world.info/tags/%E3%83%9E%E3%83%AC%E3%83%BC%E3%82%B7%E3%82%A2</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://travel-world.info/tags/%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://travel-world.info/tags/%E3%83%9E%E3%83%AC%E3%83%BC%E3%82%B7%E3%82%A2%E8%88%AA%E7%A9%BA</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://travel-world.info/posts/2024/2024-03-03-move-on-singapore/</loc>
+  <priority>0.8</priority>
+  <lastmod>2024-04-12T13:36:47+09:00</lastmod>
+</url>
+<url>
+  <loc>https://travel-world.info/tags/icn</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://travel-world.info/tags/%E3%83%A9%E3%82%A6%E3%83%B3%E3%82%B8</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://travel-world.info/tags/%E3%82%BD%E3%82%A6%E3%83%AB</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://travel-world.info/posts/2024/2024-03-02-2-go-to-malaysia/</loc>
+  <priority>0.8</priority>
+  <lastmod>2024-04-12T13:36:47+09:00</lastmod>
+</url>
+<url>
+  <loc>https://travel-world.info/posts/2024/2024-03-02-1-check-incheon-oneworld-lounge/</loc>
+  <priority>0.8</priority>
+  <lastmod>2024-04-12T13:36:47+09:00</lastmod>
+</url>
+<url>
+  <loc>https://travel-world.info/posts/2024/2024-03-01-south-korea-entry/</loc>
+  <priority>0.8</priority>
+  <lastmod>2024-04-12T13:36:47+09:00</lastmod>
+</url>
+<url>
+  <loc>https://travel-world.info/tags/gmp</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://travel-world.info/tags/hnd</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://travel-world.info/posts/2024/2024-02-29-trip-planning/</loc>
+  <priority>0.8</priority>
+  <lastmod>2024-04-12T13:36:47+09:00</lastmod>
+</url>
+<url>
+  <loc>https://travel-world.info/posts/2024/2024-02-02-remove-exif/</loc>
+  <priority>0.8</priority>
+  <lastmod>2024-04-12T13:36:47+09:00</lastmod>
+</url>
+<url>
+  <loc>https://travel-world.info/tags/%E3%83%96%E3%83%AD%E3%82%B0%E3%83%84%E3%83%BC%E3%83%AB</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://travel-world.info/posts/2024/2024-02-01-convert-heic-to-jpg/</loc>
+  <priority>0.8</priority>
+  <lastmod>2024-04-12T13:36:47+09:00</lastmod>
+</url>
+<url>
+  <loc>https://travel-world.info/tags/%e3%82%b7%e3%83%b3%e3%82%ac%e3%83%9d%e3%83%bc%e3%83%ab</loc>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://travel-world.info/tags/%e3%82%bd%e3%82%a6%e3%83%ab</loc>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://travel-world.info/tags/%e3%82%bd%e3%82%a6%e3%83%ab%e7%99%ba%e5%88%b8</loc>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://travel-world.info/tags/%e3%83%96%e3%83%ad%e3%82%b0%e3%83%84%e3%83%bc%e3%83%ab</loc>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://travel-world.info/tags/%e3%83%9e%e3%83%ac%e3%83%bc%e3%82%b7%e3%82%a2</loc>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://travel-world.info/tags/%e3%83%9e%e3%83%ac%e3%83%bc%e3%82%b7%e3%82%a2%e8%88%aa%e7%a9%ba</loc>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://travel-world.info/tags/%e3%83%a9%e3%82%a6%e3%83%b3%e3%82%b8</loc>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://travel-world.info/tags/%e5%b0%8f%e7%b1%a0%e5%8c%85</loc>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://travel-world.info/tags/%e6%97%a5%e6%9c%ac%e8%88%aa%e7%a9%ba</loc>
+  <priority>0.7</priority>
+</url>
 
 </urlset>
