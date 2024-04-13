@@ -1,2 +1,1 @@
-format:
-	exiftool -all:all= -r ./docs -overwrite_original
+/Users/yoshinaga/ghq/github.com/urogodai/travel-world.info-build/my-site/public/sitemap.xml
