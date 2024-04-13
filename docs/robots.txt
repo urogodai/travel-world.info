@@ -1,4 +1,3 @@
 User-agent: *
-Disallow: /admin
-Disallow: /tags
+Allow: /
 Sitemap: https://travel-world.info/sitemap.xml
